@@ -6,7 +6,7 @@ This is an example project used for demonstration that shows:
 
 This will only work on a Windows hosted AEM instance because of the forms PDF dependency.
 
-The test content can found in the [inputs](inputs/) directory.
+The test content can found in the [inputs](inputs/) directory.  The XDP + drawing PDFs should be placed into a DAM folder.
 
 The main code change from the standard archetype can be found in [AgreementBuilderServlet](core/src/main/java/com/mysite/core/servlets/AgreementBuilderServlet.java)
 
