@@ -1,4 +1,4 @@
-# IEC AEM Forms PDF Generation Project
+# AEM Forms PDF Generation Project
 
 This is an example project used for demonstration that shows:
 * Merging XML data with a drawing template XDP PDF using the OutputService
