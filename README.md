@@ -8,7 +8,7 @@ This will only work on a Windows hosted AEM instance because of the forms PDF de
 
 The test content can found in the [inputs](inputs/) directory.  The XDP + drawing PDFs should be placed into a DAM folder.
 
-The main code change from the standard archetype can be found in [AgreementBuilderServlet](core/src/main/java/com/mysite/core/servlets/AgreementBuilderServlet.java)
+The main code change from the standard archetype can be found in [DrawingBuilderServlet](core/src/main/java/com/mysite/core/servlets/DrawingBuilderServlet.java)
 
 ### Creating a merged drawing PDF
 
